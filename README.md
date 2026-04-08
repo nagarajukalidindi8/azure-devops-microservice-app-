@@ -22,4 +22,4 @@ This project demonstrates deployment of a simple Node.js microservice using Dock
    docker run -p 3000:3000 app
 
 ## Author
-Nagaraju
+KN RAJU
